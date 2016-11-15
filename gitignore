@@ -1,0 +1,3 @@
+#ignorar archivos de word y excel
+*docx
+*xlxs
